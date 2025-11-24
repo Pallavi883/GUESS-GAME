@@ -46,8 +46,12 @@ Your file: guessing_game.c
 
 🚀 Possible Enhancement
 
-AUTHOR:PALLAVI DALAI
+
 
 
 
 High-score saving using file I/O
+
+AUTHOR:PALLAVI DALAI
+
+![image alt](

@@ -54,4 +54,4 @@ High-score saving using file I/O
 
 AUTHOR:PALLAVI DALAI
 
-![image alt](
+![image alt](https://github.com/Pallavi883/GUESS-GAME/blob/9fc926e674f0065654bb6dd139e0d562062e2eda/output.c%20(2).png)
